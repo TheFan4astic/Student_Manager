@@ -8,7 +8,8 @@ import android.content.DialogInterface.OnClickListener;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
-import android.view.WindowManager.LayoutParams;
+//import android.view.WindowManager.LayoutParams;
+
 
 public class AlertDemo extends DialogFragment {
 
